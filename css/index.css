@@ -181,4 +181,8 @@ button:hover{
     body {
         line-height: 1.4;
     }
+    .artist .bio:hover{
+        color: green;
+        background-color:crimson;
+    }
 }
